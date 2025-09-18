@@ -20,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
