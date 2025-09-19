@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0013-roman-to-integer) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0013-roman-to-integer) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
