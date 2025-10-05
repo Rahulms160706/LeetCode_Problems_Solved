@@ -8,10 +8,9 @@ int searchInsert(int* nums, int numsSize, int target) {
             h = mid - 1;
         }
         else if(nums[mid] < target){
-            //ind = mid;
             l = mid + 1;
         }
     }
     if(l > h) return l;
-    return ind;
+    return 0;
 }
