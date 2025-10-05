@@ -8,7 +8,7 @@ int searchInsert(int* nums, int numsSize, int target) {
             h = mid - 1;
         }
         else if(nums[mid] < target){
-            ind = mid;
+            //ind = mid;
             l = mid + 1;
         }
     }
