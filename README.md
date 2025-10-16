@@ -63,16 +63,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0100-same-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0100-same-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
