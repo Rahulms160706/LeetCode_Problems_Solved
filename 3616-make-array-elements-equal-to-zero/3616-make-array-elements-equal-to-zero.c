@@ -1,4 +1,4 @@
-
+/* 160+ ms
 bool isemp(int *n,int ns){
     for(int i=0;i<ns;i++)if(n[i])return false;
     return true;
@@ -55,4 +55,27 @@ int countValidSelections(int* nums, int numsSize) {
     }
     return c;
 }
-    
+*/
+
+int check(int *nums, int numsSize, int i){
+    int ls = 0, rs = 0;
+    for(int p=0;p<i;p++){
+        ls = ls+nums[p];
+    }
+    for(int p=i;p<numsSize;p++){
+        rs = rs+nums[p];
+    }
+    if(ls == rs) return 2;
+    else if(ls+1 == rs || rs+1 == ls) return 1;
+    return 0;
+}
+
+int countValidSelections(int* nums, int numsSize) {
+    int res = 0;
+    for(int i=0;i<numsSize;i++){
+        if(nums[i] == 0){
+            res += check(nums,numsSize,i);
+        }
+    }
+    return res;
+}
