@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2481-strictly-palindromic-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2481-strictly-palindromic-number) |
+| [2998-count-symmetric-integers](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2998-count-symmetric-integers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2998-count-symmetric-integers](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2998-count-symmetric-integers) |
 ## Matrix
 |  |
 | ------- |
