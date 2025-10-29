@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0036-valid-sudoku) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0036-valid-sudoku) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Combinatorics
 |  |
