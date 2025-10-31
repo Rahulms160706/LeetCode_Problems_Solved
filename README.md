@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0036-valid-sudoku) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2481-strictly-palindromic-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2481-strictly-palindromic-number) |
 | [2998-count-symmetric-integers](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2998-count-symmetric-integers) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
