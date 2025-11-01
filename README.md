@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0234-palindrome-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
