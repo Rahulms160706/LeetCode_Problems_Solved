@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0283-move-zeroes) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1642-water-bottles) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/4051-remove-zeros-in-decimal-representation) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0036-valid-sudoku) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Combinatorics
 |  |
 | ------- |
