@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0029-divide-two-integers) |
+| [0190-reverse-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0342-power-of-four](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0461-hamming-distance) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0023-merge-k-sorted-lists) |
+| [0190-reverse-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0190-reverse-bits) |
 ## Merge Sort
 |  |
 | ------- |
