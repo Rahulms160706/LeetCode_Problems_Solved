@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0234-palindrome-linked-list) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Bit Manipulation
