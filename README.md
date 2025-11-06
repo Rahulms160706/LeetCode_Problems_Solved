@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0500-keyboard-row) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0342-power-of-four](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0342-power-of-four) |
