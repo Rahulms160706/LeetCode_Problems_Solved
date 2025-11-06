@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -236,10 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0461-hamming-distance) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Brainteaser
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2481-strictly-palindromic-number) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3998-minimum-operations-to-equalize-array) |
 ## String Matching
 |  |
 | ------- |
