@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0222-count-complete-tree-nodes) |
 | [2384-root-equals-sum-of-children](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0222-count-complete-tree-nodes) |
 | [2384-root-equals-sum-of-children](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0222-count-complete-tree-nodes) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Trie
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0461-hamming-distance) |
