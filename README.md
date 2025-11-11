@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0500-keyboard-row) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0500-keyboard-row) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0342-power-of-four) |
 | [1642-water-bottles](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1642-water-bottles) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0268-missing-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Trie
 |  |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0268-missing-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2887-sort-vowels-in-a-string) |
 ## Stack
@@ -270,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0461-hamming-distance) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2323-minimum-bit-flips-to-convert-number) |
