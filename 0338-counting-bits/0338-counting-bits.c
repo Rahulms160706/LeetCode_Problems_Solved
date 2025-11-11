@@ -4,8 +4,9 @@
 int* countBits(int n, int* returnSize) {
     *returnSize = (n+1);
     int *res = (int *)malloc((n+1)*sizeof(int));
-    for(int i = 0;i<n+1;i++) res[i] = 0;
+    //for(int i = 0;i<n+1;i++) res[i] = 0;
     for(int i = 0;i<n+1;i++){
+        res[i] = 0;
         int c = 0;
         int j = i;
         while(j>0){
