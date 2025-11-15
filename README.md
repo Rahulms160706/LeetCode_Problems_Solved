@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0367-valid-perfect-square) |
 | [1642-water-bottles](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1642-water-bottles) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1965-sum-of-digits-in-base-k) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0367-valid-perfect-square) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Trie
 |  |
