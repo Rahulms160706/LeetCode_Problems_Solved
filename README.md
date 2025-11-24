@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0500-keyboard-row) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0717-1-bit-and-2-bit-characters) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0461-hamming-distance) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3998-minimum-operations-to-equalize-array) |
