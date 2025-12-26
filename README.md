@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2887-sort-vowels-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3616-make-array-elements-equal-to-zero) |
