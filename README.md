@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0283-move-zeroes) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0242-valid-anagram) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0268-missing-number) |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
