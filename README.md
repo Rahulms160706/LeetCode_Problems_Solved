@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0069-sqrtx) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0048-rotate-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2343-count-unguarded-cells-in-the-grid) |
