@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0136-single-number) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0088-merge-sorted-array) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0169-majority-element) |
