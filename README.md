@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0387-first-unique-character-in-a-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0268-missing-number) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3074-apple-redistribution-into-boxes) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0461-hamming-distance) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3998-minimum-operations-to-equalize-array) |
