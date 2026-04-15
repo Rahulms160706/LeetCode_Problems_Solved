@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1980-find-unique-binary-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2887-sort-vowels-in-a-string) |
