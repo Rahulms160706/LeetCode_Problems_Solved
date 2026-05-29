@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2481-strictly-palindromic-number) |
 | [2998-count-symmetric-integers](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2998-count-symmetric-integers) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
