@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0268-missing-number) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0404-sum-of-left-leaves) |
 ## Simulation
 |  |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0200-number-of-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -456,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0215-kth-largest-element-in-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
