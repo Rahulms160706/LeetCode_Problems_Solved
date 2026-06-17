@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0500-keyboard-row) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0817-linked-list-components](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0817-linked-list-components) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0500-keyboard-row) |
+| [0817-linked-list-components](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0817-linked-list-components) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1980-find-unique-binary-string](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1980-find-unique-binary-string) |
 | [1995-count-special-quadruplets](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1995-count-special-quadruplets) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0234-palindrome-linked-list) |
+| [0817-linked-list-components](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0817-linked-list-components) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2181-merge-nodes-in-between-zeros) |
