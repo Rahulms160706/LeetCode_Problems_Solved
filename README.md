@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0657-robot-return-to-origin) |
 | [1642-water-bottles](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1642-water-bottles) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3616-make-array-elements-equal-to-zero) |
