@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3783-mirror-distance-of-an-integer) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/4051-remove-zeros-in-decimal-representation) |
