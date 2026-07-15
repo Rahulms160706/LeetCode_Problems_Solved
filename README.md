@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0200-number-of-islands) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0367-valid-perfect-square) |
