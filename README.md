@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0817-linked-list-components](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0817-linked-list-components) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1260-shift-2d-grid](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0657-robot-return-to-origin) |
+| [1260-shift-2d-grid](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1260-shift-2d-grid) |
 | [1642-water-bottles](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1642-water-bottles) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2288-count-operations-to-obtain-zero) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0200-number-of-islands) |
+| [1260-shift-2d-grid](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2343-count-unguarded-cells-in-the-grid) |
