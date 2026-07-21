@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0657-robot-return-to-origin) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0392-is-subsequence) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2481-strictly-palindromic-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2481-strictly-palindromic-number) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0392-is-subsequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Memoization
