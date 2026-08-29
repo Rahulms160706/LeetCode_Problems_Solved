@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0367-valid-perfect-square) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1323-maximum-69-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1323-maximum-69-number) |
 | [1642-water-bottles](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1642-water-bottles) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1965-sum-of-digits-in-base-k) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0011-container-with-most-water) |
+| [1323-maximum-69-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1323-maximum-69-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
