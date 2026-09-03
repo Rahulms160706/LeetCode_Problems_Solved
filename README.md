@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0817-linked-list-components](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0817-linked-list-components) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1046-last-stone-weight](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0264-ugly-number-ii) |
+| [1046-last-stone-weight](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Divide and Conquer
