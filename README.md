@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1995-count-special-quadruplets](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1995-count-special-quadruplets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2998-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Matrix
