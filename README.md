@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3379-transformed-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3379-transformed-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3498-reverse-degree-of-a-string) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
