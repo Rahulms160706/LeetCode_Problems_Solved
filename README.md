@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3875-construct-uniform-parity-array-i) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3998-minimum-operations-to-equalize-array) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
