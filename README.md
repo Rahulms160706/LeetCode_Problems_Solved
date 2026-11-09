@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2833-furthest-point-from-origin](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2833-furthest-point-from-origin) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0404-sum-of-left-leaves) |
+| [1267-count-servers-that-communicate](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0404-sum-of-left-leaves) |
+| [1267-count-servers-that-communicate](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1267-count-servers-that-communicate) |
 ## Simulation
 |  |
 | ------- |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -540,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/0200-number-of-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Rahulms160706/LeetCode_Problems_Solved/tree/master/1267-count-servers-that-communicate) |
 ## Bracket Sequences
 |  |
 | ------- |
